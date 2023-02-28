@@ -93,7 +93,7 @@ body .info-unit h3 {
   50% {
     height: 1rem;
     margin: 1.5rem 0;
-    background: lightblue;
+    background: #00c16a;
   }
 }
 
@@ -268,7 +268,7 @@ progress::-webkit-progress-bar {
 }
 
 progress::-webkit-progress-value {
-  background-color: lightblue;
+  background-color: #00c16a9e;
 }
 
 progress::-moz-progress-bar {
